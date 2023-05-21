@@ -35,6 +35,6 @@ class Back:
   LIGHTWHITE_EX = '\u001b[47m;1m'
 
 class Style:
-  DIM = ''
+  DIM = '{I CAN\'T FIND THE ANSII CODE FOR THIS}'
   RESET_ALL = '\u001b[0m'
   BOLD = '\u001b[1m'
